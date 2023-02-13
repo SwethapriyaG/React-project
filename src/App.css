@@ -12,6 +12,14 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.text{
+  color: rgb(0, 128, 255);
+  
+}
+.textSty{
+  color: rgba(233, 71, 71, 0.936);
+  font-weight: bold;
+}
 
 .App-header {
   background-color: #282c34;
@@ -35,4 +43,7 @@
   to {
     transform: rotate(360deg);
   }
+}
+.form-label{
+  font-weight: bold;
 }
